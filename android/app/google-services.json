@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237231323721",
+    "project_id": "turkmart-64701",
+    "storage_bucket": "turkmart-64701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237231323721:android:1a7eb2b497492c84ca9d98",
+        "android_client_info": {
+          "package_name": "com.alattal.turkmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt8k32ueCiE2Z37biqQBUqfXbsGHWBTmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

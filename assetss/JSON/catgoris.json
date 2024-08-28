@@ -1,0 +1,14 @@
+{"data":[
+
+{"c_id":"1","c_name":"المرأة","c_en_name":"woman","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=KadinAll"},
+{"c_id":"2","c_name":"الرجل","c_en_name":"Men","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=ErkekAll"},
+{"c_id":"3","c_name":"الأم والطفل","c_en_name":"MOTHER-CHILD","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=CocukAll"},
+{"c_id":"4","c_name":"المنزل&الموبيليا","c_en_name":"HOME & FURNITURE","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=EvYasamAll"},
+{"c_id":"5","c_name":"سوبر ماركت","c_en_name":"Supermarket","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=SupermarketAll"},
+{"c_id":"6","c_name":"مستحضرات التجميل","c_en_name":"COSMATIC","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=KozmetikAll"},
+{"c_id":"7","c_name":"الأحذية &الحقائب ","c_en_name":"SHOE & BAG&","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=AyakkabiAll"},
+{"c_id":"8","c_name":"الساعات والاكسسوار","c_en_name":"WATCH & ACCESSORIES","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=SaatAll"},
+{"c_id":"9","c_name":"الأجهزة الإلكترونية","c_en_name":"ELECTRONIC","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=ElektronikAll"},
+{"c_id":"10","c_name":"الرياضة والهواء الطلق","c_en_name":"SPORTS & OUTDOOR","URL":"https:\/\/public.trendyol.com\/discovery-web-searchgw-service\/v2\/api\/filter\/sr?tag=SporAll"}
+]
+}
